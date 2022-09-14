@@ -32,7 +32,7 @@ jobs:
     - run: sleep 10
     - run: pwd
   
-  build2:
+  nomatrixjob:
     runs-on: ubuntu-latest
 
 
